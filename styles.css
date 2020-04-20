@@ -8,10 +8,16 @@
     padding: 10px;
     justify-content: space-around;
     background-color: red;
+    
 
 }
-.container {
 
+body{
+
+    float: center;
+}
+.container {
+   
     width: 500px;
     display: flex;
     border: 5px solid black;
